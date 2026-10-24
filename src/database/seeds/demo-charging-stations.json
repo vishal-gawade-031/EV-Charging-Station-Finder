@@ -1,0 +1,3303 @@
+[
+  {
+    "id": "demo-delh-001",
+    "name": "Demo EV Hub - Connaught Place",
+    "latitude": 28.6315,
+    "longitude": 77.2167,
+    "address": "Outer Circle, Connaught Place, New Delhi (Demo fictional record for testing purposes)",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "pincode": "110001",
+    "operator": "Demo PowerGrid India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "Bharat DC-001"
+    ],
+    "powerKW": 120,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.159Z",
+    "amenities": [
+      "Restrooms",
+      "Cafeteria",
+      "WiFi",
+      "24/7 Security"
+    ],
+    "totalPorts": 6
+  },
+  {
+    "id": "demo-delh-002",
+    "name": "Demo Fast Charger - Saket District Centre",
+    "latitude": 28.5284,
+    "longitude": 77.2185,
+    "address": "Select Citywalk Precinct, Saket, New Delhi (Demo fictional record for testing purposes)",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "pincode": "110017",
+    "operator": "Demo ChargePoint Bharat",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "mall",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Shopping Mall",
+      "Food Court",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-delh-003",
+    "name": "Demo Airport EV Oasis - IGI Terminal 3",
+    "latitude": 28.5562,
+    "longitude": 77.1,
+    "address": "Multi-Level Car Parking, Terminal 3, IGI Airport (Demo fictional record for testing purposes)",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "pincode": "110037",
+    "operator": "Demo VoltGo India",
+    "connectorTypes": [
+      "CCS2",
+      "CHAdeMO",
+      "Type 2 AC"
+    ],
+    "powerKW": 150,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "24/7 Access",
+      "Airport Lounges",
+      "Security Surveillance"
+    ],
+    "totalPorts": 8
+  },
+  {
+    "id": "demo-delh-004",
+    "name": "Demo Tech Park Charger - Nehru Place",
+    "latitude": 28.5494,
+    "longitude": 77.2514,
+    "address": "Commercial Complex, Nehru Place, New Delhi (Demo fictional record for testing purposes)",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "pincode": "110019",
+    "operator": "Demo EcoCharge India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "workplace",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "ATM",
+      "Coffee Shop"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-hary-005",
+    "name": "Demo Cyber Hub Supercharger - Gurugram",
+    "latitude": 28.495,
+    "longitude": 77.0895,
+    "address": "DLF Cyber City Phase 2, Sector 24, Gurugram (Demo fictional record for testing purposes)",
+    "city": "Gurugram",
+    "state": "Haryana",
+    "pincode": "122002",
+    "operator": "Demo VoltGo India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "CHAdeMO"
+    ],
+    "powerKW": 180,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "workplace",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Restaurants",
+      "WiFi",
+      "Underground Parking"
+    ],
+    "totalPorts": 8
+  },
+  {
+    "id": "demo-hary-006",
+    "name": "Demo Golf Course EV Point - Gurugram",
+    "latitude": 28.4682,
+    "longitude": 77.1023,
+    "address": "Sector 54, Golf Course Road, Gurugram (Demo fictional record for testing purposes)",
+    "city": "Gurugram",
+    "state": "Haryana",
+    "pincode": "122011",
+    "operator": "Demo GreenDrive",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "mall",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Cafe",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-utta-007",
+    "name": "Demo Express EV Station - Noida Sector 18",
+    "latitude": 28.5708,
+    "longitude": 77.3261,
+    "address": "Atta Market Road, Sector 18, Noida (Demo fictional record for testing purposes)",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "pincode": "201301",
+    "operator": "Demo ChargePoint Bharat",
+    "connectorTypes": [
+      "CCS2",
+      "Bharat DC-001",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "mall",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Metro Access",
+      "Shops",
+      "Valet"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-utta-008",
+    "name": "Demo IT Hub Charger - Noida Sector 62",
+    "latitude": 28.628,
+    "longitude": 77.3649,
+    "address": "Electronic City Metro, Sector 62, Noida (Demo fictional record for testing purposes)",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "pincode": "201309",
+    "operator": "Demo PowerGrid India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "workplace",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Coffee Vending",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-utta-009",
+    "name": "Demo Expressway Charger - Pari Chowk",
+    "latitude": 28.4646,
+    "longitude": 77.5108,
+    "address": "Yamuna Expressway Entry, Pari Chowk, Greater Noida (Demo fictional record for testing purposes)",
+    "city": "Greater Noida",
+    "state": "Uttar Pradesh",
+    "pincode": "201310",
+    "operator": "Demo HighwayVolt",
+    "connectorTypes": [
+      "CCS2",
+      "CHAdeMO",
+      "Bharat DC-001"
+    ],
+    "powerKW": 120,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "highway",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Dhaba",
+      "Fuel Station",
+      "Restrooms",
+      "Tyre Inflation"
+    ],
+    "totalPorts": 6
+  },
+  {
+    "id": "demo-hary-010",
+    "name": "Demo Lakeview Station - Faridabad",
+    "latitude": 28.4116,
+    "longitude": 77.2917,
+    "address": "Badkhal Enclave, Surajkund Road, Faridabad (Demo fictional record for testing purposes)",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": "121001",
+    "operator": "Demo EcoCharge India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Garden View",
+      "Snack Bar"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-utta-011",
+    "name": "Demo City Station - Raj Nagar Ghaziabad",
+    "latitude": 28.6946,
+    "longitude": 77.4378,
+    "address": "Raj Nagar Extension Bypass, Ghaziabad (Demo fictional record for testing purposes)",
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": "201017",
+    "operator": "Demo GreenDrive",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Food Outlets",
+      "Air Check"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-chan-012",
+    "name": "Demo Capital Charger - Sector 17 Plaza",
+    "latitude": 30.7398,
+    "longitude": 76.7827,
+    "address": "Bank Square, Sector 17, Chandigarh (Demo fictional record for testing purposes)",
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "pincode": "160017",
+    "operator": "Demo VoltGo India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Pedestrian Plaza",
+      "Restrooms",
+      "Open Seating"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-chan-013",
+    "name": "Demo IT Park Super Hub - Chandigarh",
+    "latitude": 30.7247,
+    "longitude": 76.8458,
+    "address": "DLF Cyber City, IT Park, Chandigarh (Demo fictional record for testing purposes)",
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "pincode": "160101",
+    "operator": "Demo PowerGrid India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "CHAdeMO"
+    ],
+    "powerKW": 120,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "workplace",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Cafeteria",
+      "ATM",
+      "High Speed WiFi"
+    ],
+    "totalPorts": 6
+  },
+  {
+    "id": "demo-punj-014",
+    "name": "Demo Heritage EV Point - Amritsar",
+    "latitude": 31.62,
+    "longitude": 74.8765,
+    "address": "Near Heritage Street, Town Hall, Amritsar (Demo fictional record for testing purposes)",
+    "city": "Amritsar",
+    "state": "Punjab",
+    "pincode": "143001",
+    "operator": "Demo EcoCharge India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "Bharat DC-001"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Locker Room",
+      "Tourist Info"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-punj-015",
+    "name": "Demo Grand Mall EV Charger - Ludhiana",
+    "latitude": 30.901,
+    "longitude": 75.8573,
+    "address": "Ferozepur Road, Westend Mall Area, Ludhiana (Demo fictional record for testing purposes)",
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "pincode": "141012",
+    "operator": "Demo ChargePoint Bharat",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "mall",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Cinema",
+      "Restaurants",
+      "Undercover Parking"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-punj-016",
+    "name": "Demo City Hub - Model Town Jalandhar",
+    "latitude": 31.326,
+    "longitude": 75.5762,
+    "address": "Model Town Market Circle, Jalandhar (Demo fictional record for testing purposes)",
+    "city": "Jalandhar",
+    "state": "Punjab",
+    "pincode": "144003",
+    "operator": "Demo GreenDrive",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Coffee Shop",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-punj-017",
+    "name": "Demo Royal EV Station - Patiala",
+    "latitude": 30.3398,
+    "longitude": 76.3869,
+    "address": "Urban Estate Phase II, Rajpura Road, Patiala (Demo fictional record for testing purposes)",
+    "city": "Patiala",
+    "state": "Punjab",
+    "pincode": "147002",
+    "operator": "Demo VoltGo India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Restrooms",
+      "Water Vending"
+    ],
+    "totalPorts": 3
+  },
+  {
+    "id": "demo-hary-018",
+    "name": "Demo GT Highway Fast Charger - Panipat",
+    "latitude": 29.3909,
+    "longitude": 76.9635,
+    "address": "NH 44 GT Karnal Road, Near Toll Plaza, Panipat (Demo fictional record for testing purposes)",
+    "city": "Panipat",
+    "state": "Haryana",
+    "pincode": "132103",
+    "operator": "Demo HighwayVolt",
+    "connectorTypes": [
+      "CCS2",
+      "CHAdeMO",
+      "Type 2 AC"
+    ],
+    "powerKW": 120,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "highway",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "24/7 Dhaba",
+      "Clean Washrooms",
+      "Convenience Store"
+    ],
+    "totalPorts": 6
+  },
+  {
+    "id": "demo-hary-019",
+    "name": "Demo Oasis EV Complex - Karnal",
+    "latitude": 29.6857,
+    "longitude": 76.9905,
+    "address": "Karna Lake Highway Resort, NH 44, Karnal (Demo fictional record for testing purposes)",
+    "city": "Karnal",
+    "state": "Haryana",
+    "pincode": "132001",
+    "operator": "Demo HighwayVolt",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 150,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "highway",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Lake View Restaurant",
+      "Resort Stay",
+      "EV Fast Charging"
+    ],
+    "totalPorts": 6
+  },
+  {
+    "id": "demo-hary-020",
+    "name": "Demo Junction Station - Ambala Cantt",
+    "latitude": 30.3782,
+    "longitude": 76.7767,
+    "address": "GT Road Junction, Ambala Cantt (Demo fictional record for testing purposes)",
+    "city": "Ambala",
+    "state": "Haryana",
+    "pincode": "133001",
+    "operator": "Demo GreenDrive",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Tea Stall",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-hima-021",
+    "name": "Demo Pine Hill EV Station - Shimla",
+    "latitude": 31.1048,
+    "longitude": 77.1734,
+    "address": "Cart Road Lift Parking, Shimla (Demo fictional record for testing purposes)",
+    "city": "Shimla",
+    "state": "Himachal Pradesh",
+    "pincode": "171001",
+    "operator": "Demo HillVolt India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Lift to Mall Road",
+      "Restrooms",
+      "Scenic Viewpoint"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-hima-022",
+    "name": "Demo Himalayan Base Charger - Manali",
+    "latitude": 32.2432,
+    "longitude": 77.1892,
+    "address": "Near Circuit House, Left Bank Road, Manali (Demo fictional record for testing purposes)",
+    "city": "Manali",
+    "state": "Himachal Pradesh",
+    "pincode": "175131",
+    "operator": "Demo HillVolt India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "hotel",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Heated Lounge",
+      "Cafe",
+      "Tyre Pressure"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-hima-023",
+    "name": "Demo Valley Charger - Dharamshala",
+    "latitude": 32.2426,
+    "longitude": 76.3213,
+    "address": "Bhagsunag Road, McLeod Ganj, Dharamshala (Demo fictional record for testing purposes)",
+    "city": "Dharamshala",
+    "state": "Himachal Pradesh",
+    "pincode": "176219",
+    "operator": "Demo HillVolt India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 30,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Organic Cafe",
+      "Souvenir Shops"
+    ],
+    "totalPorts": 2
+  },
+  {
+    "id": "demo-utta-024",
+    "name": "Demo Valley Fast Charger - Dehradun",
+    "latitude": 30.3165,
+    "longitude": 78.0322,
+    "address": "Rajpur Road, Opposite Silver City Mall, Dehradun (Demo fictional record for testing purposes)",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "operator": "Demo VoltGo India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Bakery",
+      "Coffee Shop",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-utta-025",
+    "name": "Demo Ganga View EV Hub - Rishikesh",
+    "latitude": 30.1258,
+    "longitude": 78.3182,
+    "address": "Badrinath Road, Tapovan, Rishikesh (Demo fictional record for testing purposes)",
+    "city": "Rishikesh",
+    "state": "Uttarakhand",
+    "pincode": "249192",
+    "operator": "Demo GreenDrive",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "hotel",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Yoga Center",
+      "Ayurvedic Cafe",
+      "River View"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-utta-026",
+    "name": "Demo Pilgrimage EV Point - Haridwar",
+    "latitude": 29.9457,
+    "longitude": 78.1642,
+    "address": "Delhi-Haridwar Bypass, Near Har Ki Pauri, Haridwar (Demo fictional record for testing purposes)",
+    "city": "Haridwar",
+    "state": "Uttarakhand",
+    "pincode": "249401",
+    "operator": "Demo EcoCharge India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "Bharat DC-001"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Dharamshala Waiting Hall",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-jamm-027",
+    "name": "Demo Chinar Valley EV Point - Srinagar",
+    "latitude": 34.0837,
+    "longitude": 74.7973,
+    "address": "Residency Road, Near Lal Chowk, Srinagar (Demo fictional record for testing purposes)",
+    "city": "Srinagar",
+    "state": "Jammu and Kashmir",
+    "pincode": "190001",
+    "operator": "Demo HillVolt India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Tea House",
+      "Kashmiri Craft Center"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-jamm-028",
+    "name": "Demo Tawi Riverside Charger - Jammu",
+    "latitude": 32.7266,
+    "longitude": 74.857,
+    "address": "Bahu Plaza Complex, Gandhi Nagar, Jammu (Demo fictional record for testing purposes)",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "pincode": "180004",
+    "operator": "Demo PowerGrid India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Food Court",
+      "ATM"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-lada-029",
+    "name": "Demo High Altitude Solar Hub - Leh",
+    "latitude": 34.1526,
+    "longitude": 77.5771,
+    "address": "Fort Road, Near Main Bazaar, Leh (Demo fictional record for testing purposes)",
+    "city": "Leh",
+    "state": "Ladakh",
+    "pincode": "194101",
+    "operator": "Demo HillVolt India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 30,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Solar Battery Backup",
+      "Lounge",
+      "Oxygen Assistance"
+    ],
+    "totalPorts": 2
+  },
+  {
+    "id": "demo-raja-030",
+    "name": "Demo Pink City Supercharger - Jaipur C-Scheme",
+    "latitude": 26.9124,
+    "longitude": 75.7873,
+    "address": "Ashok Marg, C-Scheme, Jaipur (Demo fictional record for testing purposes)",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "pincode": "302001",
+    "operator": "Demo VoltGo India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "CHAdeMO"
+    ],
+    "powerKW": 120,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Cafe",
+      "Restrooms",
+      "Waiting Lounge"
+    ],
+    "totalPorts": 6
+  },
+  {
+    "id": "demo-raja-031",
+    "name": "Demo West Jaipur Station - Vaishali Nagar",
+    "latitude": 26.901,
+    "longitude": 75.738,
+    "address": "Queens Road, Vaishali Nagar, Jaipur (Demo fictional record for testing purposes)",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "pincode": "302021",
+    "operator": "Demo ChargePoint Bharat",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "mall",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Shopping Complex",
+      "Fast Food"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-raja-032",
+    "name": "Demo Lake City EV Oasis - Udaipur",
+    "latitude": 24.5854,
+    "longitude": 73.7125,
+    "address": "Fateh Sagar Lake Promenade, Sukhadia Circle, Udaipur (Demo fictional record for testing purposes)",
+    "city": "Udaipur",
+    "state": "Rajasthan",
+    "pincode": "313001",
+    "operator": "Demo GreenDrive",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "hotel",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Lake View Restaurant",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-raja-033",
+    "name": "Demo Sun City EV Point - Jodhpur",
+    "latitude": 26.2389,
+    "longitude": 73.0243,
+    "address": "Paota Circle, Mandore Road, Jodhpur (Demo fictional record for testing purposes)",
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "pincode": "342006",
+    "operator": "Demo EcoCharge India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "Bharat DC-001"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Cold Beverage Corner",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-raja-034",
+    "name": "Demo Chambal City Charger - Kota",
+    "latitude": 25.18,
+    "longitude": 75.8648,
+    "address": "Aerodrome Circle, Jhalawar Road, Kota (Demo fictional record for testing purposes)",
+    "city": "Kota",
+    "state": "Rajasthan",
+    "pincode": "324007",
+    "operator": "Demo PowerGrid India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Bookstore Cafe",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-raja-035",
+    "name": "Demo Dargah Bypass Station - Ajmer",
+    "latitude": 26.4499,
+    "longitude": 74.6399,
+    "address": "Panchsheel Nagar, Jaipur Road, Ajmer (Demo fictional record for testing purposes)",
+    "city": "Ajmer",
+    "state": "Rajasthan",
+    "pincode": "305004",
+    "operator": "Demo GreenDrive",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Tea Shop",
+      "Tyre Air"
+    ],
+    "totalPorts": 3
+  },
+  {
+    "id": "demo-utta-036",
+    "name": "Demo Gomti Nagar Supercharger - Lucknow",
+    "latitude": 26.85,
+    "longitude": 80.999,
+    "address": "Vipin Khand, Near Riverside Mall, Gomti Nagar, Lucknow (Demo fictional record for testing purposes)",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "pincode": "226010",
+    "operator": "Demo VoltGo India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "CHAdeMO"
+    ],
+    "powerKW": 120,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "mall",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Multiplex",
+      "Multi-Cuisine Restaurants",
+      "Valet"
+    ],
+    "totalPorts": 6
+  },
+  {
+    "id": "demo-utta-037",
+    "name": "Demo Heritage Heart Charger - Lucknow Hazratganj",
+    "latitude": 26.8467,
+    "longitude": 80.9462,
+    "address": "MG Marg, Hazratganj Shopping District, Lucknow (Demo fictional record for testing purposes)",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "pincode": "226001",
+    "operator": "Demo PowerGrid India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Heritage Walking Street",
+      "Cafes"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-utta-038",
+    "name": "Demo Industrial Hub Charger - Kanpur",
+    "latitude": 26.4499,
+    "longitude": 80.3319,
+    "address": "Mall Road, Near Phool Bagh, Kanpur (Demo fictional record for testing purposes)",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "208001",
+    "operator": "Demo EcoCharge India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "Bharat DC-001"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Restrooms",
+      "Snack Vending"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-utta-039",
+    "name": "Demo Kashi Ghat EV Point - Varanasi",
+    "latitude": 25.3176,
+    "longitude": 82.9739,
+    "address": "Varanasi Cantt Station Circle, Varanasi (Demo fictional record for testing purposes)",
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "pincode": "221002",
+    "operator": "Demo GreenDrive",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Tea Stall",
+      "Restrooms",
+      "Tourist Taxi Stand"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-utta-040",
+    "name": "Demo Taj Express EV Hub - Agra",
+    "latitude": 27.1767,
+    "longitude": 78.0081,
+    "address": "Fatehabad Road Tourist Corridor, Agra (Demo fictional record for testing purposes)",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282001",
+    "operator": "Demo HighwayVolt",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "CHAdeMO"
+    ],
+    "powerKW": 120,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "hotel",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Hotel Dining",
+      "Handicrafts Center",
+      "Clean Washrooms"
+    ],
+    "totalPorts": 6
+  },
+  {
+    "id": "demo-utta-041",
+    "name": "Demo Sangam City Charger - Prayagraj",
+    "latitude": 25.4358,
+    "longitude": 81.8463,
+    "address": "Civil Lines Square, MG Marg, Prayagraj (Demo fictional record for testing purposes)",
+    "city": "Prayagraj",
+    "state": "Uttar Pradesh",
+    "pincode": "211001",
+    "operator": "Demo ChargePoint Bharat",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Coffee Outlets",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-utta-042",
+    "name": "Demo University Highway EV - Meerut",
+    "latitude": 28.9845,
+    "longitude": 77.7064,
+    "address": "Delhi-Meerut Expressway Junction, Meerut (Demo fictional record for testing purposes)",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "pincode": "250004",
+    "operator": "Demo HighwayVolt",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "highway",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Expressway Rest Area",
+      "Dhaba"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-maha-043",
+    "name": "Demo BKC Mega EV Station - Mumbai",
+    "latitude": 19.0657,
+    "longitude": 72.8687,
+    "address": "G-Block, Bandra Kurla Complex, Bandra East, Mumbai (Demo fictional record for testing purposes)",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400051",
+    "operator": "Demo VoltGo India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "CHAdeMO",
+      "GB/T"
+    ],
+    "powerKW": 240,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "workplace",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Gourmet Cafeteria",
+      "Dedicated EV Bays",
+      "Security Guards"
+    ],
+    "totalPorts": 10
+  },
+  {
+    "id": "demo-maha-044",
+    "name": "Demo South Bombay EV Point - Nariman Point",
+    "latitude": 18.9256,
+    "longitude": 72.8242,
+    "address": "Mittal Towers Complex, Nariman Point, Mumbai (Demo fictional record for testing purposes)",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400021",
+    "operator": "Demo PowerGrid India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "workplace",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Sea View Promenade",
+      "Bank ATMs"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-maha-045",
+    "name": "Demo Andheri Hub - Mumbai Suburbs",
+    "latitude": 19.1136,
+    "longitude": 72.8697,
+    "address": "Chakala Metro Station, Andheri East, Mumbai (Demo fictional record for testing purposes)",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400093",
+    "operator": "Demo ChargePoint Bharat",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "Bharat DC-001"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Metro Connection",
+      "Food Stalls"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-maha-046",
+    "name": "Demo Navi Mumbai Gateway - Vashi",
+    "latitude": 19.0771,
+    "longitude": 72.9986,
+    "address": "Sector 17, Palm Beach Road Junction, Vashi, Navi Mumbai (Demo fictional record for testing purposes)",
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400703",
+    "operator": "Demo GreenDrive",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "mall",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Inorbit Mall",
+      "Supermarket"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-maha-047",
+    "name": "Demo Lake City Mall Charger - Thane",
+    "latitude": 19.2062,
+    "longitude": 72.9734,
+    "address": "Viviana Mall Basement, Eastern Express Highway, Thane West (Demo fictional record for testing purposes)",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "pincode": "400606",
+    "operator": "Demo VoltGo India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 120,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "mall",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Mall Parking",
+      "Cinema",
+      "Restrooms"
+    ],
+    "totalPorts": 6
+  },
+  {
+    "id": "demo-maha-048",
+    "name": "Demo Hinjewadi Tech Park Super Hub - Pune",
+    "latitude": 18.5913,
+    "longitude": 73.7389,
+    "address": "Phase 1, Hinjewadi Rajiv Gandhi Infotech Park, Pune (Demo fictional record for testing purposes)",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411057",
+    "operator": "Demo VoltGo India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "CHAdeMO"
+    ],
+    "powerKW": 150,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "workplace",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Food Court",
+      "Co-working Lounge",
+      "EV Lounge"
+    ],
+    "totalPorts": 8
+  },
+  {
+    "id": "demo-maha-049",
+    "name": "Demo Central Pune Station - Shivaji Nagar",
+    "latitude": 18.5308,
+    "longitude": 73.8475,
+    "address": "FC Road Intersection, Shivaji Nagar, Pune (Demo fictional record for testing purposes)",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411005",
+    "operator": "Demo PowerGrid India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Cafes",
+      "Bookstores",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-maha-050",
+    "name": "Demo Orange City EV Hub - Nagpur",
+    "latitude": 21.1458,
+    "longitude": 79.0882,
+    "address": "Civil Lines, Near High Court, Nagpur (Demo fictional record for testing purposes)",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "pincode": "440001",
+    "operator": "Demo EcoCharge India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "Bharat DC-001"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Green Park",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-maha-051",
+    "name": "Demo Wine Capital EV Point - Nashik",
+    "latitude": 19.9975,
+    "longitude": 73.7898,
+    "address": "Mumbai Naka, NH 3 Highway, Nashik (Demo fictional record for testing purposes)",
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "pincode": "422001",
+    "operator": "Demo HighwayVolt",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "highway",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Highway Restaurant",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-maha-052",
+    "name": "Demo Historical Hub - Chhatrapati Sambhajinagar",
+    "latitude": 19.8762,
+    "longitude": 75.3433,
+    "address": "Jalna Road, CIDCO Town Centre, Sambhajinagar (Demo fictional record for testing purposes)",
+    "city": "Chhatrapati Sambhajinagar",
+    "state": "Maharashtra",
+    "pincode": "431003",
+    "operator": "Demo GreenDrive",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Snack Parlour",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-guja-053",
+    "name": "Demo SG Highway Supercharger - Ahmedabad",
+    "latitude": 23.0338,
+    "longitude": 72.5074,
+    "address": "Sarkhej - Gandhinagar Highway, Bodakdev, Ahmedabad (Demo fictional record for testing purposes)",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "pincode": "380054",
+    "operator": "Demo VoltGo India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "CHAdeMO"
+    ],
+    "powerKW": 150,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "mall",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Fine Dining",
+      "Restrooms",
+      "Fast Charging Bays"
+    ],
+    "totalPorts": 8
+  },
+  {
+    "id": "demo-guja-054",
+    "name": "Demo Prahlad Nagar Corporate EV - Ahmedabad",
+    "latitude": 23.0076,
+    "longitude": 72.5065,
+    "address": "100 Feet Anand Nagar Road, Prahlad Nagar, Ahmedabad (Demo fictional record for testing purposes)",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "pincode": "380015",
+    "operator": "Demo ChargePoint Bharat",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "workplace",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Garden",
+      "Cafeteria",
+      "ATM"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-guja-055",
+    "name": "Demo Infocity Tech Charger - Gandhinagar",
+    "latitude": 23.2156,
+    "longitude": 72.6369,
+    "address": "Infocity IT Park, Indroda Circle, Gandhinagar (Demo fictional record for testing purposes)",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "pincode": "382007",
+    "operator": "Demo PowerGrid India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "workplace",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Tech Campus",
+      "Food Court"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-guja-056",
+    "name": "Demo Diamond City Charger - Surat",
+    "latitude": 21.1702,
+    "longitude": 72.8311,
+    "address": "Dumas Road, Near VR Surat Mall, Surat (Demo fictional record for testing purposes)",
+    "city": "Surat",
+    "state": "Gujarat",
+    "pincode": "395007",
+    "operator": "Demo GreenDrive",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "Bharat DC-001"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "mall",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "VR Mall",
+      "Restrooms",
+      "Food Court"
+    ],
+    "totalPorts": 6
+  },
+  {
+    "id": "demo-guja-057",
+    "name": "Demo Sayaji EV Station - Vadodara",
+    "latitude": 22.3107,
+    "longitude": 73.1812,
+    "address": "RC Dutt Road, Alkapuri, Vadodara (Demo fictional record for testing purposes)",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "pincode": "390007",
+    "operator": "Demo EcoCharge India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Hotel Sayaji Cafe",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-guja-058",
+    "name": "Demo Saurashtra Gateway - Rajkot",
+    "latitude": 22.3039,
+    "longitude": 70.8022,
+    "address": "Kalawad Road, KKV Hall Square, Rajkot (Demo fictional record for testing purposes)",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": "360005",
+    "operator": "Demo GreenDrive",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Fast Food",
+      "Water Dispenser"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-goa-059",
+    "name": "Demo Mandovi Coast EV Hub - Panaji",
+    "latitude": 15.4859,
+    "longitude": 73.8114,
+    "address": "Miramar Beach Promenade Road, Panaji (Demo fictional record for testing purposes)",
+    "city": "Panaji",
+    "state": "Goa",
+    "pincode": "403001",
+    "operator": "Demo GreenDrive",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "hotel",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Beach Front",
+      "Seafood Cafe",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-goa-060",
+    "name": "Demo South Goa Terminal - Margao",
+    "latitude": 15.2832,
+    "longitude": 73.9862,
+    "address": "Fatorda Stadium Complex, Margao (Demo fictional record for testing purposes)",
+    "city": "Margao",
+    "state": "Goa",
+    "pincode": "403602",
+    "operator": "Demo EcoCharge India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Sports Complex",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-goa-061",
+    "name": "Demo Coastal Strip Charger - Calangute",
+    "latitude": 15.5439,
+    "longitude": 73.7553,
+    "address": "Calangute-Baga Main Road, North Goa (Demo fictional record for testing purposes)",
+    "city": "Calangute",
+    "state": "Goa",
+    "pincode": "403516",
+    "operator": "Demo VoltGo India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "hotel",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Resort Access",
+      "Beach Shacks"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-karn-062",
+    "name": "Demo Silicon EV Oasis - Koramangala Bengaluru",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "address": "80 Feet Road, 4th Block, Koramangala, Bengaluru (Demo fictional record for testing purposes)",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560034",
+    "operator": "Demo VoltGo India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "CHAdeMO",
+      "Bharat DC-001"
+    ],
+    "powerKW": 120,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Artisan Coffee",
+      "High Speed WiFi",
+      "Restrooms"
+    ],
+    "totalPorts": 6
+  },
+  {
+    "id": "demo-karn-063",
+    "name": "Demo Metro EV Point - Indiranagar Bengaluru",
+    "latitude": 12.9719,
+    "longitude": 77.6412,
+    "address": "100 Feet Road, HAL 2nd Stage, Indiranagar, Bengaluru (Demo fictional record for testing purposes)",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560038",
+    "operator": "Demo ChargePoint Bharat",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Retail Boutiques",
+      "Metro Station Access"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-karn-064",
+    "name": "Demo Tech Village Super Hub - Electronic City",
+    "latitude": 12.8399,
+    "longitude": 77.677,
+    "address": "Hosur Main Road, Phase 1, Electronic City, Bengaluru (Demo fictional record for testing purposes)",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560100",
+    "operator": "Demo VoltGo India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "CHAdeMO"
+    ],
+    "powerKW": 180,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "workplace",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Tech Campus Food Court",
+      "Covered Canopy",
+      "EV Care"
+    ],
+    "totalPorts": 8
+  },
+  {
+    "id": "demo-karn-065",
+    "name": "Demo ITPL Tech Zone Charger - Whitefield",
+    "latitude": 12.9857,
+    "longitude": 77.7317,
+    "address": "ITPL Main Road, Pattandur Agrahara, Whitefield, Bengaluru (Demo fictional record for testing purposes)",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560066",
+    "operator": "Demo PowerGrid India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 120,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "workplace",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Mall Adjacent",
+      "Metro Link",
+      "ATM"
+    ],
+    "totalPorts": 6
+  },
+  {
+    "id": "demo-karn-066",
+    "name": "Demo CBD Central Hub - MG Road Bengaluru",
+    "latitude": 12.9752,
+    "longitude": 77.6095,
+    "address": "Near Trinity Circle, MG Road, Bengaluru (Demo fictional record for testing purposes)",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560001",
+    "operator": "Demo GreenDrive",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Central Metro Hub",
+      "Shopping Street"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-karn-067",
+    "name": "Demo North Gateway - Hebbal Outer Ring",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "address": "Hebbal Flyover Junction, Bellary Road, Bengaluru (Demo fictional record for testing purposes)",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560024",
+    "operator": "Demo HighwayVolt",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "CHAdeMO"
+    ],
+    "powerKW": 120,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "highway",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Airport Highway Stop",
+      "Coffee Drive-thru"
+    ],
+    "totalPorts": 6
+  },
+  {
+    "id": "demo-karn-068",
+    "name": "Demo Royal Palace EV Hub - Mysuru",
+    "latitude": 12.3149,
+    "longitude": 76.6135,
+    "address": "Hunsur Road, Vijayanagar 2nd Stage, Mysuru (Demo fictional record for testing purposes)",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570017",
+    "operator": "Demo EcoCharge India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Heritage Garden Cafe",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-karn-069",
+    "name": "Demo Coastal Port EV Point - Mangaluru",
+    "latitude": 12.8858,
+    "longitude": 74.8436,
+    "address": "MG Road, Near Lalbagh Towers, Mangaluru (Demo fictional record for testing purposes)",
+    "city": "Mangaluru",
+    "state": "Karnataka",
+    "pincode": "575003",
+    "operator": "Demo GreenDrive",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "mall",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Bharat Mall",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-karn-070",
+    "name": "Demo North Karnataka Hub - Hubballi",
+    "latitude": 15.3647,
+    "longitude": 75.124,
+    "address": "PB Road, Vidyanagar Circle, Hubballi (Demo fictional record for testing purposes)",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580021",
+    "operator": "Demo PowerGrid India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "Bharat DC-001"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Highway Restaurant",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-karn-071",
+    "name": "Demo Border City Charger - Belagavi",
+    "latitude": 15.8497,
+    "longitude": 74.4977,
+    "address": "Congress Road, Tilakwadi, Belagavi (Demo fictional record for testing purposes)",
+    "city": "Belagavi",
+    "state": "Karnataka",
+    "pincode": "590006",
+    "operator": "Demo GreenDrive",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Snack Center",
+      "Restrooms"
+    ],
+    "totalPorts": 3
+  },
+  {
+    "id": "demo-tami-072",
+    "name": "Demo OMR Cyber Corrdor EV Hub - Chennai",
+    "latitude": 12.901,
+    "longitude": 80.2279,
+    "address": "Rajiv Gandhi Salai, Sholinganallur Junction, Chennai (Demo fictional record for testing purposes)",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600119",
+    "operator": "Demo VoltGo India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "CHAdeMO"
+    ],
+    "powerKW": 150,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "workplace",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "IT Corridor Hub",
+      "Food Court",
+      "24/7 Security"
+    ],
+    "totalPorts": 8
+  },
+  {
+    "id": "demo-tami-073",
+    "name": "Demo Anna Nagar City Charger - Chennai",
+    "latitude": 13.085,
+    "longitude": 80.2101,
+    "address": "2nd Avenue, Near Roundtana, Anna Nagar, Chennai (Demo fictional record for testing purposes)",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600040",
+    "operator": "Demo ChargePoint Bharat",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Shopping District",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-tami-074",
+    "name": "Demo Guindy Industrial EV Point - Chennai",
+    "latitude": 13.0067,
+    "longitude": 80.2025,
+    "address": "SIDCO Industrial Estate, Guindy, Chennai (Demo fictional record for testing purposes)",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600032",
+    "operator": "Demo PowerGrid India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "Bharat DC-001"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "workplace",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Metro Access",
+      "Canteen"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-tami-075",
+    "name": "Demo Manchester of South Hub - Coimbatore",
+    "latitude": 11.0168,
+    "longitude": 76.9558,
+    "address": "Cross Cut Road, Gandhipuram, Coimbatore (Demo fictional record for testing purposes)",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "pincode": "641012",
+    "operator": "Demo VoltGo India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Retail Stores",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-tami-076",
+    "name": "Demo Avinashi Road Express - Coimbatore",
+    "latitude": 11.0267,
+    "longitude": 77.0135,
+    "address": "Avinashi Road, Near PSG Tech, Peelamedu, Coimbatore (Demo fictional record for testing purposes)",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "pincode": "641004",
+    "operator": "Demo GreenDrive",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "CHAdeMO"
+    ],
+    "powerKW": 120,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "highway",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Hospital Adjacent",
+      "Coffee Day"
+    ],
+    "totalPorts": 6
+  },
+  {
+    "id": "demo-tami-077",
+    "name": "Demo Temple City Charger - Madurai",
+    "latitude": 9.9252,
+    "longitude": 78.1198,
+    "address": "80 Feet Road, Anna Nagar, Madurai (Demo fictional record for testing purposes)",
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "pincode": "625020",
+    "operator": "Demo EcoCharge India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "South Indian Eatery",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-tami-078",
+    "name": "Demo Steel City EV Point - Salem",
+    "latitude": 11.6643,
+    "longitude": 78.146,
+    "address": "Omalur Main Road, New Bus Stand Area, Salem (Demo fictional record for testing purposes)",
+    "city": "Salem",
+    "state": "Tamil Nadu",
+    "pincode": "636009",
+    "operator": "Demo HighwayVolt",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "highway",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Travel Plaza",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-tami-079",
+    "name": "Demo Rockfort City Station - Tiruchirappalli",
+    "latitude": 10.7905,
+    "longitude": 78.7047,
+    "address": "Salai Road, Thillai Nagar, Trichy (Demo fictional record for testing purposes)",
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "pincode": "620018",
+    "operator": "Demo GreenDrive",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Bakery",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-kera-080",
+    "name": "Demo Kochi Marine Drive Fast Hub",
+    "latitude": 9.9816,
+    "longitude": 76.2798,
+    "address": "Shanmugham Road, Marine Drive Walkway, Ernakulam, Kochi (Demo fictional record for testing purposes)",
+    "city": "Kochi",
+    "state": "Kerala",
+    "pincode": "682031",
+    "operator": "Demo VoltGo India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "CHAdeMO"
+    ],
+    "powerKW": 120,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Water Metro Terminal",
+      "Promenade Walk",
+      "Restrooms"
+    ],
+    "totalPorts": 6
+  },
+  {
+    "id": "demo-kera-081",
+    "name": "Demo Infopark Tech Oasis - Kakkanad",
+    "latitude": 10.0159,
+    "longitude": 76.3533,
+    "address": "Infopark Phase 1, Expressway Junction, Kakkanad, Kochi (Demo fictional record for testing purposes)",
+    "city": "Kochi",
+    "state": "Kerala",
+    "pincode": "682042",
+    "operator": "Demo PowerGrid India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "workplace",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "IT Cafes",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-kera-082",
+    "name": "Demo Technopark Green Hub - Thiruvananthapuram",
+    "latitude": 8.5581,
+    "longitude": 76.8812,
+    "address": "NH 66 Bypass, Technopark Main Gate, Kazhakoottam, Thiruvananthapuram (Demo fictional record for testing purposes)",
+    "city": "Thiruvananthapuram",
+    "state": "Kerala",
+    "pincode": "695581",
+    "operator": "Demo VoltGo India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "CHAdeMO"
+    ],
+    "powerKW": 120,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "workplace",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Lulu Mall Proximity",
+      "Restrooms",
+      "Fast Charging"
+    ],
+    "totalPorts": 6
+  },
+  {
+    "id": "demo-kera-083",
+    "name": "Demo Malabar Coast Station - Kozhikode",
+    "latitude": 11.2588,
+    "longitude": 75.7804,
+    "address": "Beach Road, Near Old Pier, Kozhikode (Demo fictional record for testing purposes)",
+    "city": "Kozhikode",
+    "state": "Kerala",
+    "pincode": "673032",
+    "operator": "Demo EcoCharge India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Beach Walkway",
+      "Snack Counters"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-kera-084",
+    "name": "Demo Cultural Capital EV - Thrissur",
+    "latitude": 10.5276,
+    "longitude": 76.2144,
+    "address": "Swaraj Round North, Thrissur (Demo fictional record for testing purposes)",
+    "city": "Thrissur",
+    "state": "Kerala",
+    "pincode": "680001",
+    "operator": "Demo GreenDrive",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Round Walking Zone",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-tela-085",
+    "name": "Demo Cyber Towers Supercharger - Hitec City Hyderabad",
+    "latitude": 17.4435,
+    "longitude": 78.3772,
+    "address": "Hitec City Main Road, Madhapur, Hyderabad (Demo fictional record for testing purposes)",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500081",
+    "operator": "Demo VoltGo India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "CHAdeMO",
+      "GB/T"
+    ],
+    "powerKW": 180,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "workplace",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Metro Link",
+      "Gourmet Coffee",
+      "EV Lounge"
+    ],
+    "totalPorts": 8
+  },
+  {
+    "id": "demo-tela-086",
+    "name": "Demo Financial District Charger - Gachibowli",
+    "latitude": 17.4401,
+    "longitude": 78.3489,
+    "address": "ORR Junction, Nanakramguda, Gachibowli, Hyderabad (Demo fictional record for testing purposes)",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500032",
+    "operator": "Demo PowerGrid India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 120,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "workplace",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "ORR Expressway Stop",
+      "Clean Washrooms"
+    ],
+    "totalPorts": 6
+  },
+  {
+    "id": "demo-tela-087",
+    "name": "Demo Banjara Hills Lifestyle Hub - Hyderabad",
+    "latitude": 17.4156,
+    "longitude": 78.4347,
+    "address": "Road No. 1, Banjara Hills, Hyderabad (Demo fictional record for testing purposes)",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500034",
+    "operator": "Demo ChargePoint Bharat",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "mall",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "City Centre Mall",
+      "Restaurants"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-tela-088",
+    "name": "Demo Twin City Point - Secunderabad",
+    "latitude": 17.4399,
+    "longitude": 78.4983,
+    "address": "MG Road, Paradise Circle, Secunderabad (Demo fictional record for testing purposes)",
+    "city": "Secunderabad",
+    "state": "Telangana",
+    "pincode": "500003",
+    "operator": "Demo GreenDrive",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "Bharat DC-001"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Biryani Landmarks",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-andh-089",
+    "name": "Demo Coastal Sunrise EV Hub - Visakhapatnam",
+    "latitude": 17.7126,
+    "longitude": 83.3178,
+    "address": "Beach Road, RK Beach Promenade, Visakhapatnam (Demo fictional record for testing purposes)",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "530002",
+    "operator": "Demo VoltGo India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Submarine Museum Adjacent",
+      "Beach Front",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-andh-090",
+    "name": "Demo Capital Gateway EV - Vijayawada",
+    "latitude": 16.5062,
+    "longitude": 80.648,
+    "address": "Benz Circle, MG Road, Vijayawada (Demo fictional record for testing purposes)",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": "520010",
+    "operator": "Demo EcoCharge India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "Bharat DC-001"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "PVP Square Mall",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-andh-091",
+    "name": "Demo Balaji Foothills EV Oasis - Tirupati",
+    "latitude": 13.6288,
+    "longitude": 79.4192,
+    "address": "Alipiri Bypass Road, Foothills of Tirumala, Tirupati (Demo fictional record for testing purposes)",
+    "city": "Tirupati",
+    "state": "Andhra Pradesh",
+    "pincode": "517507",
+    "operator": "Demo GreenDrive",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Pilgrim Rest Center",
+      "Clean Washrooms",
+      "24/7 Tea"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-west-092",
+    "name": "Demo Park Street Heritage Charger - Kolkata",
+    "latitude": 22.5535,
+    "longitude": 88.3516,
+    "address": "Park Street, Near Camac Street Crossing, Kolkata (Demo fictional record for testing purposes)",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700016",
+    "operator": "Demo VoltGo India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Historic Restaurants",
+      "Bookstores",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-west-093",
+    "name": "Demo Silicon Sector V Hub - Salt Lake Kolkata",
+    "latitude": 22.5807,
+    "longitude": 88.4326,
+    "address": "Sector V, Bidhannagar, Salt Lake, Kolkata (Demo fictional record for testing purposes)",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700091",
+    "operator": "Demo PowerGrid India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "CHAdeMO"
+    ],
+    "powerKW": 120,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "workplace",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "IT Parks",
+      "Metro Green Line",
+      "Cafeteria"
+    ],
+    "totalPorts": 6
+  },
+  {
+    "id": "demo-west-094",
+    "name": "Demo Smart City Eco Hub - New Town Kolkata",
+    "latitude": 22.6074,
+    "longitude": 88.4716,
+    "address": "Major Arterial Road, Action Area II, New Town, Kolkata (Demo fictional record for testing purposes)",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700156",
+    "operator": "Demo ChargePoint Bharat",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "mall",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Eco Park View",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-west-095",
+    "name": "Demo North Bengal Gateway - Siliguri",
+    "latitude": 26.7271,
+    "longitude": 88.4354,
+    "address": "Sevoke Road, Near Cosmos Mall, Siliguri (Demo fictional record for testing purposes)",
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "pincode": "734001",
+    "operator": "Demo HillVolt India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "mall",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Mall Parking",
+      "Hill Transit Point"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-odis-096",
+    "name": "Demo Temple City EV Hub - Bhubaneswar",
+    "latitude": 20.2961,
+    "longitude": 85.8245,
+    "address": "Janpath, Saheed Nagar, Bhubaneswar (Demo fictional record for testing purposes)",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "pincode": "751007",
+    "operator": "Demo VoltGo India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "Bharat DC-001"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Smart City Plaza",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-odis-097",
+    "name": "Demo InfoCity IT Charger - Bhubaneswar Patia",
+    "latitude": 20.3588,
+    "longitude": 85.8184,
+    "address": "InfoCity Avenue, Patia, Bhubaneswar (Demo fictional record for testing purposes)",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "pincode": "751024",
+    "operator": "Demo GreenDrive",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "workplace",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "KIIT Campus Area",
+      "Fast Food"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-odis-098",
+    "name": "Demo Jagannath Coast EV Point - Puri",
+    "latitude": 19.8135,
+    "longitude": 85.8312,
+    "address": "VIP Road, Near Sea Beach, Puri (Demo fictional record for testing purposes)",
+    "city": "Puri",
+    "state": "Odisha",
+    "pincode": "752001",
+    "operator": "Demo EcoCharge India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "hotel",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Sea View Hotels",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-biha-099",
+    "name": "Demo Capital Expressway Hub - Patna",
+    "latitude": 25.61,
+    "longitude": 85.12,
+    "address": "Boring Canal Road, Crossing, Patna (Demo fictional record for testing purposes)",
+    "city": "Patna",
+    "state": "Bihar",
+    "pincode": "800001",
+    "operator": "Demo EcoCharge India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "Bharat DC-001"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Shopping Outlets",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-biha-100",
+    "name": "Demo Bailey Road Point - Patna",
+    "latitude": 25.6033,
+    "longitude": 85.0894,
+    "address": "Bailey Road, Near Rupaspur Overbridge, Patna (Demo fictional record for testing purposes)",
+    "city": "Patna",
+    "state": "Bihar",
+    "pincode": "801503",
+    "operator": "Demo GreenDrive",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Flyover Rest Area",
+      "Water Vending"
+    ],
+    "totalPorts": 3
+  },
+  {
+    "id": "demo-jhar-101",
+    "name": "Demo Plateau City EV Point - Ranchi",
+    "latitude": 23.3441,
+    "longitude": 85.3096,
+    "address": "Main Road, Overbridge Square, Ranchi (Demo fictional record for testing purposes)",
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "pincode": "834001",
+    "operator": "Demo PowerGrid India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Central Market",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-jhar-102",
+    "name": "Demo Steel Town Hub - Jamshedpur",
+    "latitude": 22.8046,
+    "longitude": 86.1855,
+    "address": "Bistupur Main Road, Near Regal Circle, Jamshedpur (Demo fictional record for testing purposes)",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "operator": "Demo VoltGo India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Jubilee Park Proximity",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-madh-103",
+    "name": "Demo Lake City Super Hub - Bhopal",
+    "latitude": 23.2324,
+    "longitude": 77.4344,
+    "address": "MP Nagar Zone 1, Near DB Mall, Bhopal (Demo fictional record for testing purposes)",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "pincode": "462011",
+    "operator": "Demo VoltGo India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "CHAdeMO"
+    ],
+    "powerKW": 120,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "mall",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "DB Mall",
+      "Restrooms",
+      "Fast Charging Bays"
+    ],
+    "totalPorts": 6
+  },
+  {
+    "id": "demo-madh-104",
+    "name": "Demo Clean City EV Hub - Indore Vijay Nagar",
+    "latitude": 22.7533,
+    "longitude": 75.8937,
+    "address": "AB Road, Vijay Nagar Square, Indore (Demo fictional record for testing purposes)",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "operator": "Demo VoltGo India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "CHAdeMO"
+    ],
+    "powerKW": 150,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "mall",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "56 Dukan Proximity",
+      "Clean Washrooms",
+      "EV Lounge"
+    ],
+    "totalPorts": 8
+  },
+  {
+    "id": "demo-madh-105",
+    "name": "Demo Fort View EV Point - Gwalior",
+    "latitude": 26.2183,
+    "longitude": 78.1828,
+    "address": "City Centre, Near SP Office, Gwalior (Demo fictional record for testing purposes)",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474011",
+    "operator": "Demo PowerGrid India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Snack Plaza",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-madh-106",
+    "name": "Demo Marble Rock Station - Jabalpur",
+    "latitude": 23.1686,
+    "longitude": 79.9339,
+    "address": "Civil Lines, Near High Court Circle, Jabalpur (Demo fictional record for testing purposes)",
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "pincode": "482001",
+    "operator": "Demo GreenDrive",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Coffee Corner",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-chha-107",
+    "name": "Demo Marine Drive EV Oasis - Raipur",
+    "latitude": 21.238,
+    "longitude": 81.656,
+    "address": "Telibandha Talab Promenade, GE Road, Raipur (Demo fictional record for testing purposes)",
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "pincode": "492006",
+    "operator": "Demo VoltGo India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Lake Walkway",
+      "Night Food Street",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-assa-108",
+    "name": "Demo Brahmaputra Super Hub - Guwahati GS Road",
+    "latitude": 26.1584,
+    "longitude": 91.7766,
+    "address": "GS Road, Christian Basti, Guwahati (Demo fictional record for testing purposes)",
+    "city": "Guwahati",
+    "state": "Assam",
+    "pincode": "781005",
+    "operator": "Demo VoltGo India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC",
+      "CHAdeMO"
+    ],
+    "powerKW": 120,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "mall",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "City Centre Mall",
+      "Restrooms",
+      "Fast Charging"
+    ],
+    "totalPorts": 6
+  },
+  {
+    "id": "demo-assa-109",
+    "name": "Demo Gateway Expressway Hub - Guwahati Khanapara",
+    "latitude": 26.1158,
+    "longitude": 91.8219,
+    "address": "NH 37 Bypass, Khanapara Rotary, Guwahati (Demo fictional record for testing purposes)",
+    "city": "Guwahati",
+    "state": "Assam",
+    "pincode": "781022",
+    "operator": "Demo HighwayVolt",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "highway",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Meghalaya Border Highway Stop",
+      "Dhaba"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-megh-110",
+    "name": "Demo Scotland of East Point - Shillong",
+    "latitude": 25.5788,
+    "longitude": 91.8933,
+    "address": "Police Bazar Centre, Shillong (Demo fictional record for testing purposes)",
+    "city": "Shillong",
+    "state": "Meghalaya",
+    "pincode": "793001",
+    "operator": "Demo HillVolt India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Tourist Hub",
+      "Local Tea Stalls"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-trip-111",
+    "name": "Demo Ujjayanta City Charger - Agartala",
+    "latitude": 23.8315,
+    "longitude": 91.2868,
+    "address": "Palace Compound, City Centre, Agartala (Demo fictional record for testing purposes)",
+    "city": "Agartala",
+    "state": "Tripura",
+    "pincode": "799001",
+    "operator": "Demo GreenDrive",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Palace Gardens",
+      "Restrooms"
+    ],
+    "totalPorts": 3
+  },
+  {
+    "id": "demo-mani-112",
+    "name": "Demo Kangla Valley Charger - Imphal",
+    "latitude": 24.817,
+    "longitude": 93.9368,
+    "address": "Kangla Fort West Gate Road, Imphal (Demo fictional record for testing purposes)",
+    "city": "Imphal",
+    "state": "Manipur",
+    "pincode": "795001",
+    "operator": "Demo EcoCharge India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 30,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Historic Fort",
+      "Restrooms"
+    ],
+    "totalPorts": 2
+  },
+  {
+    "id": "demo-mizo-113",
+    "name": "Demo Mountain Ridge Point - Aizawl",
+    "latitude": 23.7307,
+    "longitude": 92.7173,
+    "address": "Zarkawt Main Street, Aizawl (Demo fictional record for testing purposes)",
+    "city": "Aizawl",
+    "state": "Mizoram",
+    "pincode": "796001",
+    "operator": "Demo HillVolt India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 30,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Panoramic Mountain View",
+      "Bakery"
+    ],
+    "totalPorts": 2
+  },
+  {
+    "id": "demo-naga-114",
+    "name": "Demo Naga Hills EV Hub - Kohima",
+    "latitude": 25.6751,
+    "longitude": 94.1086,
+    "address": "High School Junction, Kohima (Demo fictional record for testing purposes)",
+    "city": "Kohima",
+    "state": "Nagaland",
+    "pincode": "797001",
+    "operator": "Demo HillVolt India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 30,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Local Produce Market",
+      "Restrooms"
+    ],
+    "totalPorts": 2
+  },
+  {
+    "id": "demo-arun-115",
+    "name": "Demo Sunrise State EV Point - Itanagar",
+    "latitude": 27.0844,
+    "longitude": 93.6053,
+    "address": "Bank Tinali Road, Itanagar (Demo fictional record for testing purposes)",
+    "city": "Itanagar",
+    "state": "Arunachal Pradesh",
+    "pincode": "791111",
+    "operator": "Demo HillVolt India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 30,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Monastery View",
+      "Restrooms"
+    ],
+    "totalPorts": 2
+  },
+  {
+    "id": "demo-sikk-116",
+    "name": "Demo Kanchenjunga View EV - Gangtok",
+    "latitude": 27.3314,
+    "longitude": 88.6138,
+    "address": "MG Marg Promenade, Gangtok (Demo fictional record for testing purposes)",
+    "city": "Gangtok",
+    "state": "Sikkim",
+    "pincode": "737101",
+    "operator": "Demo HillVolt India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Pedestrian Mall",
+      "Coffee Shops",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-pudu-117",
+    "name": "Demo French Heritage EV Hub - Puducherry",
+    "latitude": 11.9338,
+    "longitude": 79.8335,
+    "address": "Goubert Avenue, Promenade Beach, White Town, Puducherry (Demo fictional record for testing purposes)",
+    "city": "Puducherry",
+    "state": "Puducherry",
+    "pincode": "605001",
+    "operator": "Demo VoltGo India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 60,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "hotel",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "French Quarter Walk",
+      "Beach Promenade",
+      "Restrooms"
+    ],
+    "totalPorts": 4
+  },
+  {
+    "id": "demo-anda-118",
+    "name": "Demo Bay Island Solar Point - Port Blair",
+    "latitude": 11.6683,
+    "longitude": 92.7483,
+    "address": "Marina Park Road, Near Cellular Jail, Port Blair (Demo fictional record for testing purposes)",
+    "city": "Port Blair",
+    "state": "Andaman and Nicobar Islands",
+    "pincode": "744101",
+    "operator": "Demo EcoCharge India",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 30,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "public",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Sea Shore Park",
+      "Tourist Info"
+    ],
+    "totalPorts": 2
+  },
+  {
+    "id": "demo-dadr-119",
+    "name": "Demo Arabian Coast EV - Daman",
+    "latitude": 20.4283,
+    "longitude": 72.8397,
+    "address": "Seaface Road, Devka Beach, Daman (Demo fictional record for testing purposes)",
+    "city": "Daman",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396210",
+    "operator": "Demo GreenDrive",
+    "connectorTypes": [
+      "CCS2",
+      "Type 2 AC"
+    ],
+    "powerKW": 50,
+    "pricing": "₹18-₹22 / kWh (Demonstration rate)",
+    "stationType": "hotel",
+    "dataSource": "demo",
+    "isDemo": true,
+    "availabilityStatus": "unknown",
+    "lastUpdated": "2026-10-17T22:21:28.160Z",
+    "amenities": [
+      "Beach Resorts",
+      "Restrooms"
+    ],
+    "totalPorts": 3
+  }
+]

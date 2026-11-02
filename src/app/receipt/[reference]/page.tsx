@@ -34,6 +34,7 @@ export default function ReceiptPage({ params }: PageProps) {
       .then((res) => res.json())
       .then((data) => {
         if (data.success && data.receipt) {
+          console.log("featching the data from api ",data);
           setReceipt(data.receipt);
         } else {
           setError(data.error || "Receipt not found. Has the demo payment succeeded?");

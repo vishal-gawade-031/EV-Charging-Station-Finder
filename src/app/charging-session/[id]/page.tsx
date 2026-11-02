@@ -457,7 +457,7 @@ export default function ChargingSessionDashboard({ params }: PageProps) {
             {/* Battery Progress Bar */}
             <div className="w-full bg-gray-800 h-3 rounded-full overflow-hidden p-0.5 border border-gray-700">
               <div
-                className="h-full bg-gradient-to-r from-emerald-500 to-teal-400 rounded-full transition-all duration-500"
+                className="h-full bg-linear-to-r from-emerald-500 to-teal-400 rounded-full transition-all duration-500"
                 style={{ width: `${Math.min(100, currentBatteryPercent)}%` }}
               />
             </div>
@@ -578,7 +578,7 @@ export default function ChargingSessionDashboard({ params }: PageProps) {
         {/* Module 5: Automatic Payment QR Code Section */}
         <div
           ref={qrSectionRef}
-          className="p-6 sm:p-8 rounded-3xl bg-gradient-to-b from-[#11192d] to-[#0d1424] border border-emerald-500/30 shadow-2xl space-y-6"
+          className="p-6 sm:p-8 rounded-3xl bg-linear-to-b from-[#11192d] to-[#0d1424] border border-emerald-500/30 shadow-2xl space-y-6"
         >
           <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 pb-4 border-b border-gray-800">
             <div>
